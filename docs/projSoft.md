@@ -1,8 +1,6 @@
-# Projeto da Software
+# Projeto CAPM
 
-Autor: Nelson S. dos Santos
-Data: 13/12/2023
-Revisor: 
+Henrique Brauner e Rafael Sabedra
 
 ## Introdução
 
